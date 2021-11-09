@@ -16,7 +16,7 @@
       <th align="center">Приложения</th>
     </tr>
     <tr>
-      <td>col 3 is</td>
+      <td></td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
